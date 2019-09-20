@@ -1,6 +1,8 @@
 {
   "name": "jabberwock",
-  "class": "com.lycanitesmobs.mountainmobs.entity.EntityJabberwock",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJabberwock",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelJabberwock",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,8 +42,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0.25,

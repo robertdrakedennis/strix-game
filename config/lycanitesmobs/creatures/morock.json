@@ -1,6 +1,8 @@
 {
   "name": "morock",
-  "class": "com.lycanitesmobs.plainsmobs.entity.EntityMorock",
+  "creatureType": "dragon",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityMorock",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelMorock",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,8 +43,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 2,
   "sight": 24,
   "knockbackResistance": 0.75,

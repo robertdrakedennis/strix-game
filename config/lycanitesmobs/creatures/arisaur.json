@@ -1,6 +1,8 @@
 {
   "name": "arisaur",
-  "class": "com.lycanitesmobs.forestmobs.entity.EntityArisaur",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityArisaur",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelArisaur",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,8 +19,10 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
+      "plains",
       "forest",
-      "-mountain"
+      "-mountain",
+      "-snowy"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 0,
@@ -41,8 +45,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 1,
@@ -69,8 +73,8 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "forestmobs:arisaurmeatraw",
-      "burningItem": "forestmobs:arisaurmeatcooked",
+      "item": "lycanitesmobs:arisaurmeatraw",
+      "burningItem": "lycanitesmobs:arisaurmeatcooked",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

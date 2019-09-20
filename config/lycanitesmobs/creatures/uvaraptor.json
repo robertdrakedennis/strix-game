@@ -1,6 +1,8 @@
 {
   "name": "uvaraptor",
-  "class": "com.lycanitesmobs.junglemobs.entity.EntityUvaraptor",
+  "creatureType": "avian",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityUvaraptor",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelUvaraptor",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,8 +42,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,

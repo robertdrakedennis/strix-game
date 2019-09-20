@@ -1,6 +1,8 @@
 {
   "name": "ignibus",
-  "class": "com.lycanitesmobs.infernomobs.entity.EntityIgnibus",
+  "creatureType": "dragon",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityIgnibus",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelIgnibus",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +38,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
@@ -94,7 +96,7 @@
       "chance": 1
     },
     {
-      "item": "infernomobs:scorchfirecharge",
+      "item": "lycanitesmobs:scorchfirecharge",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

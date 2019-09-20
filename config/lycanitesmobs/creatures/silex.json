@@ -1,6 +1,8 @@
 {
   "name": "silex",
-  "class": "com.lycanitesmobs.freshwatermobs.entity.EntitySilex",
+  "creatureType": "aquatic",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySilex",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelSilex",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,8 +43,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -76,8 +78,8 @@
       "chance": 1
     },
     {
-      "item": "freshwatermobs:silexmeatraw",
-      "burningItem": "freshwatermobs:silexmeatcooked",
+      "item": "lycanitesmobs:silexmeatraw",
+      "burningItem": "lycanitesmobs:silexmeatcooked",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

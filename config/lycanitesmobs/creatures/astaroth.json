@@ -1,6 +1,8 @@
 {
   "name": "astaroth",
-  "class": "com.lycanitesmobs.demonmobs.entity.EntityAstaroth",
+  "creatureType": "aberration",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAstaroth",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAstaroth",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -43,8 +45,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 4,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 40,
   "knockbackResistance": 1,
@@ -64,7 +66,7 @@
     {
       "index": 4,
       "skin": "void",
-      "modelClass": "com.lycanitesmobs.demonmobs.model.ModelAstarothVoid",
+      "modelClass": "com.lycanitesmobs.core.model.creature.ModelAstarothVoid",
       "type": "common",
       "priority": 1,
       "conditions": [
@@ -80,7 +82,7 @@
     {
       "index": 5,
       "skin": "void",
-      "modelClass": "com.lycanitesmobs.demonmobs.model.ModelAstarothVoid",
+      "modelClass": "com.lycanitesmobs.core.model.creature.ModelAstarothVoid",
       "color": "violet",
       "type": "uncommon",
       "priority": 1,
@@ -97,7 +99,7 @@
     {
       "index": 6,
       "skin": "void",
-      "modelClass": "com.lycanitesmobs.demonmobs.model.ModelAstarothVoid",
+      "modelClass": "com.lycanitesmobs.core.model.creature.ModelAstarothVoid",
       "color": "keppel",
       "type": "uncommon",
       "priority": 1,
@@ -133,7 +135,7 @@
       "chance": 1
     },
     {
-      "item": "demonmobs:devilstarcharge",
+      "item": "lycanitesmobs:devilstarcharge",
       "minAmount": 3,
       "maxAmount": 6,
       "chance": 0.5

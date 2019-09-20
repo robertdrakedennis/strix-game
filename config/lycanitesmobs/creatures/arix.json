@@ -1,6 +1,8 @@
 {
   "name": "arix",
-  "class": "com.lycanitesmobs.arcticmobs.entity.EntityArix",
+  "creatureType": "imp",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityArix",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelArix",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -43,8 +45,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 0,
@@ -83,7 +85,7 @@
       "chance": 0.25
     },
     {
-      "item": "arcticmobs:icefirecharge",
+      "item": "lycanitesmobs:icefirecharge",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 0.25

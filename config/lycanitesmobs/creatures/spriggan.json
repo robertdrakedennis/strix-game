@@ -1,6 +1,8 @@
 {
   "name": "spriggan",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntitySpriggan",
+  "creatureType": "elemental",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySpriggan",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelSpriggan",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,8 +34,8 @@
   "damage": 1,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -97,7 +99,7 @@
       "chance": 0.05
     },
     {
-      "item": "elementalmobs:lifedraincharge",
+      "item": "lycanitesmobs:lifedraincharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.25

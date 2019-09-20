@@ -1,6 +1,8 @@
 {
   "name": "cephignis",
-  "class": "com.lycanitesmobs.infernomobs.entity.EntityCephignis",
+  "creatureType": "aquatic",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCephignis",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelCephignis",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +38,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -64,7 +66,7 @@
   "dungeonLevel": 0,
   "drops": [
     {
-      "item": "infernomobs:cephignismeatcooked",
+      "item": "lycanitesmobs:cephignismeatcooked",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 0.25

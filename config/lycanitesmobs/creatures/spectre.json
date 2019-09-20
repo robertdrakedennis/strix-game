@@ -1,6 +1,8 @@
 {
   "name": "spectre",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntitySpectre",
+  "creatureType": "elemental",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySpectre",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelSpectre",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +38,8 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
@@ -88,7 +90,7 @@
       "chance": 0.5
     },
     {
-      "item": "shadowmobs:spectralboltcharge",
+      "item": "lycanitesmobs:spectralboltcharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.25

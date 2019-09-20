@@ -1,7 +1,9 @@
 {
   "name": "cinder",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityCinder",
-  "loadDefault": false,
+  "creatureType": "elemental",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCinder",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelCinder",
+  "loadDefault": true,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -11,7 +13,7 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [],
-    "spawnWeight": 4,
+    "spawnWeight": 8,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
@@ -32,8 +34,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -72,7 +74,7 @@
       "chance": 0.1
     },
     {
-      "item": "elementalmobs:embercharge",
+      "item": "lycanitesmobs:embercharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.25

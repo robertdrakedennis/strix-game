@@ -1,6 +1,8 @@
 {
   "name": "aglebemu",
-  "class": "com.lycanitesmobs.swampmobs.entity.EntityAglebemu",
+  "creatureType": "aquatic",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAglebemu",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAglebemu",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,8 +44,8 @@
   "damage": 2,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 10,
-  "amplifier": 1,
+  "effectDuration": 10,
+  "effectAmplifier": 1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -76,7 +78,7 @@
       "chance": 0.5
     },
     {
-      "item": "swampmobs:poisongland",
+      "item": "lycanitesmobs:poisongland",
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 1

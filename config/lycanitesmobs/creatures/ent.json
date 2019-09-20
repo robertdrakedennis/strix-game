@@ -1,6 +1,8 @@
 {
   "name": "ent",
-  "class": "com.lycanitesmobs.forestmobs.entity.EntityEnt",
+  "creatureType": "plant",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityEnt",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelEnt",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,8 +43,8 @@
   "damage": 3,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,

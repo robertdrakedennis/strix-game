@@ -1,6 +1,8 @@
 {
   "name": "ika",
-  "class": "com.lycanitesmobs.saltwatermobs.entity.EntityIka",
+  "creatureType": "aquatic",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityIka",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelIka",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,8 +42,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0.5,
@@ -68,8 +70,8 @@
   "dungeonLevel": 0,
   "drops": [
     {
-      "item": "saltwatermobs:ikameatraw",
-      "burningItem": "saltwatermobs:ikameatcooked",
+      "item": "lycanitesmobs:ikameatraw",
+      "burningItem": "lycanitesmobs:ikameatcooked",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

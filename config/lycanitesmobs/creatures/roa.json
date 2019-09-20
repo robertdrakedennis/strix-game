@@ -1,6 +1,8 @@
 {
   "name": "roa",
-  "class": "com.lycanitesmobs.saltwatermobs.entity.EntityRoa",
+  "creatureType": "aquatic",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityRoa",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelRoa",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,8 +42,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0,

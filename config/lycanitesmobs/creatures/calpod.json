@@ -1,6 +1,8 @@
 {
   "name": "calpod",
-  "class": "com.lycanitesmobs.forestmobs.entity.EntityCalpod",
+  "creatureType": "arthropod",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCalpod",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelCalpod",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,8 +43,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,

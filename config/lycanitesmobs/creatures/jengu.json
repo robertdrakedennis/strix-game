@@ -1,6 +1,8 @@
 {
   "name": "jengu",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityJengu",
+  "creatureType": "elemental",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJengu",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelJengu",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -34,8 +36,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -62,7 +64,7 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "elementalmobs:aquapulsecharge",
+      "item": "lycanitesmobs:aquapulsecharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.25

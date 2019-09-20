@@ -1,6 +1,8 @@
 {
   "name": "warg",
-  "class": "com.lycanitesmobs.forestmobs.entity.EntityWarg",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityWarg",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelWarg",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,8 +43,8 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0.5,
@@ -60,7 +62,7 @@
       "type": "uncommon"
     }
   ],
-  "element": "electric",
+  "element": "lightning",
   "peaceful": false,
   "summonable": false,
   "tameable": true,

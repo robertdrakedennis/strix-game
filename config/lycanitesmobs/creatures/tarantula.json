@@ -1,6 +1,8 @@
 {
   "name": "tarantula",
-  "class": "com.lycanitesmobs.junglemobs.entity.EntityTarantula",
+  "creatureType": "arthropod",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTarantula",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelTarantula",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,7 +19,8 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "jungle"
+      "jungle",
+      "swamp"
     ],
     "spawnWeight": 8,
     "dungeonWeight": 200,
@@ -40,8 +43,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,

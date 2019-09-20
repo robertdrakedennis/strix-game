@@ -1,6 +1,8 @@
 {
   "name": "asmodeus",
-  "class": "com.lycanitesmobs.demonmobs.entity.EntityAsmodeus",
+  "creatureType": "aberration",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAsmodeus",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAsmodeus",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +38,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 4,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 2,
   "sight": 64,
   "knockbackResistance": 1,
@@ -95,49 +97,49 @@
       "chance": 1
     },
     {
-      "item": "demonmobs:doomfirecharge",
+      "item": "lycanitesmobs:doomfirecharge",
       "minAmount": 10,
       "maxAmount": 20,
       "chance": 1
     },
     {
-      "item": "demonmobs:hellfirecharge",
+      "item": "lycanitesmobs:hellfirecharge",
       "minAmount": 10,
       "maxAmount": 20,
       "chance": 1
     },
     {
-      "item": "demonmobs:demonstone",
+      "item": "lycanitesmobs:demonstone",
       "minAmount": 64,
       "maxAmount": 128,
       "chance": 1
     },
     {
-      "item": "demonmobs:demonstonebrick",
+      "item": "lycanitesmobs:demonstonebrick",
       "minAmount": 64,
       "maxAmount": 128,
       "chance": 1
     },
     {
-      "item": "demonmobs:demonstonetile",
+      "item": "lycanitesmobs:demonstonetile",
       "minAmount": 64,
       "maxAmount": 128,
       "chance": 1
     },
     {
-      "item": "demonmobs:demoncrystal",
+      "item": "lycanitesmobs:demoncrystal",
       "minAmount": 64,
       "maxAmount": 128,
       "chance": 1
     },
     {
-      "item": "demonmobs:soulstonedemonic",
+      "item": "lycanitesmobs:soulstonedemonic",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1
     },
     {
-      "item": "elementalmobs:wraithsigil",
+      "item": "lycanitesmobs:wraithsigil",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1

@@ -1,6 +1,8 @@
 {
   "name": "epion",
-  "class": "com.lycanitesmobs.shadowmobs.entity.EntityEpion",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityEpion",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelEpion",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -37,8 +39,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -77,7 +79,7 @@
       "chance": 0.5
     },
     {
-      "item": "shadowmobs:bloodleechcharge",
+      "item": "lycanitesmobs:bloodleechcharge",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 0.25
