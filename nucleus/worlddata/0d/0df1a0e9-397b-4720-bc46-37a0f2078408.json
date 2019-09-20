@@ -1,7 +1,0 @@
-{
-  "start-pregen": true,
-  "save-time": 300000,
-  "tick-percent": 100,
-  "tick-freq": 1,
-  "aggressive": true
-}
