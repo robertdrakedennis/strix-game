@@ -31,7 +31,7 @@
   },
   {
     "state": {
-      "block": "infernomobs:purelava",
+      "block": "lycanitesmobs:purelava",
       "properties": {}
     },
     "temperature": 15.0
