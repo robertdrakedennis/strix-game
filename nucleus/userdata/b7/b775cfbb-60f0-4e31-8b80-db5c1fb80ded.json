@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "kitLastUsedTime": {
+    "basekit": 1568978050
+  },
+  "vanish": false,
+  "fly": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "lastKnownName": "disobey_music",
+  "lastLocation": {
+    "x": 113.95384945191898,
+    "y": 67.79673570967218,
+    "z": 106.03123679370957,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "0df1a0e9-397b-4720-bc46-37a0f2078408"
+  },
+  "lastLogin": 1568978050394,
+  "lastLogout": 1568978105826,
+  "lastIP": "/37.191.2.42",
+  "firstJoin": 1568978050394,
+  "startedFirstJoin": false,
+  "notes": [],
+  "warnings": [],
+  "mail": [],
+  "jailOnNextLogin": false
+}

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastKnownName": "kylej333",
+  "lastLogin": 1568887089089,
+  "lastLogout": 1568888350076,
+  "lastIP": "/175.32.148.221",
+  "firstJoin": 1568886132869,
+  "startedFirstJoin": false,
+  "lastLocation": {
+    "x": -266.90957606281603,
+    "y": 70.0,
+    "z": -1351.2947692261032,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "mail": [],
+  "warnings": [],
+  "notes": []
+}

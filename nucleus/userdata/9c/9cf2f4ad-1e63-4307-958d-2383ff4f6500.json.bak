@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568946817
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "Akkowo",
+  "lastLogin": 1568948948900,
+  "lastLogout": 1568949267098,
+  "lastIP": "/76.102.8.73",
+  "firstJoin": 1568946817445,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false,
+  "lastLocation": {
+    "x": -290.29744069057494,
+    "y": 64.0,
+    "z": 2646.1835169953065,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

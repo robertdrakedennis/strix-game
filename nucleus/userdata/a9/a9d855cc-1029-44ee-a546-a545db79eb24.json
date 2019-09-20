@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "invulnerable": false,
+  "kitLastUsedTime": {
+    "basekit": 1568932033
+  },
+  "fly": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "CocoaSmackdown81",
+  "lastLogin": 1568983853156,
+  "lastLogout": 1568984021660,
+  "lastIP": "/104.187.132.101",
+  "firstJoin": 1568932033772,
+  "startedFirstJoin": false,
+  "isFrozen": false,
+  "vanish": false,
+  "homes": {
+    "run": {
+      "x": -2301.4812962957185,
+      "y": 67.0,
+      "z": -158.32634723899406,
+      "rotx": 12.605073928833008,
+      "roty": -269.46185302734375,
+      "rotz": 0.0,
+      "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+    }
+  },
+  "lastLocation": {
+    "x": 113.22942503583349,
+    "y": 69.0,
+    "z": 56.10135547075997,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "0df1a0e9-397b-4720-bc46-37a0f2078408"
+  },
+  "mail": [],
+  "notes": [],
+  "warnings": [],
+  "ignoreList": []
+}

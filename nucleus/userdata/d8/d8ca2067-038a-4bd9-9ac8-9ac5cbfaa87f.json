@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "fly": false,
+  "invulnerable": false,
+  "lastKnownName": "gygy_",
+  "lastLogin": 1568952340301,
+  "lastLogout": 0,
+  "lastIP": "/173.77.237.246",
+  "firstJoin": 1568849745631,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "notes": [],
+  "ignoreList": [],
+  "warnings": [],
+  "homes": {
+    "home": {
+      "x": -291.7133532027864,
+      "y": 67.0625,
+      "z": 75.27096559833969,
+      "rotx": 39.29998016357422,
+      "roty": -174.2539520263672,
+      "rotz": 0.0,
+      "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+    }
+  }
+}

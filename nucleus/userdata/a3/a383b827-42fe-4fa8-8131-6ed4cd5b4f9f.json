@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastKnownName": "Ayeni",
+  "lastLogin": 1568935972262,
+  "lastLogout": 1568939329021,
+  "lastIP": "/67.188.204.5",
+  "firstJoin": 1568875519733,
+  "startedFirstJoin": false,
+  "fly": false,
+  "jailOnNextLogin": false,
+  "homes": {
+    "home": {
+      "x": -172.89488965517845,
+      "y": 81.0625,
+      "z": 127.5209953410614,
+      "rotx": 12.807587623596191,
+      "roty": 181.59844970703125,
+      "rotz": 0.0,
+      "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+    }
+  },
+  "lastLocation": {
+    "x": -465.30000001192093,
+    "y": 64.0,
+    "z": 319.30000001192093,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "mail": [],
+  "notes": [],
+  "ignoreList": [],
+  "warnings": []
+}

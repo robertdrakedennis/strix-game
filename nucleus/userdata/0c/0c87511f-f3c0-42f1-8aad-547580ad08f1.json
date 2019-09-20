@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "ignoreList": [],
+  "invulnerable": false,
+  "warnings": [],
+  "kitLastUsedTime": {
+    "basekit": 1568927981
+  },
+  "fly": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Stranding",
+  "lastLocation": {
+    "x": -295.94616781444984,
+    "y": 65.0,
+    "z": 128.12929167975307,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "lastLogin": 1568929547332,
+  "lastLogout": 1568935168334,
+  "lastIP": "/99.252.123.123",
+  "firstJoin": 1568927981003,
+  "startedFirstJoin": false,
+  "isFrozen": false,
+  "notes": [],
+  "vanish": false
+}

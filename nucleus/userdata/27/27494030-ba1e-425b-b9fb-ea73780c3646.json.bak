@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568958240
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "_Akechi_",
+  "lastLogin": 1568958240116,
+  "lastLogout": 0,
+  "lastIP": "/174.100.11.15",
+  "firstJoin": 1568958240116,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false
+}

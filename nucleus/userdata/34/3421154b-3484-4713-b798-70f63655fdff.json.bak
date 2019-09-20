@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "fly": false,
+  "invulnerable": false,
+  "lastKnownName": "Golden_Patriot3",
+  "lastLogin": 1568928898307,
+  "lastLogout": 1568930302882,
+  "lastIP": "/72.176.197.132",
+  "firstJoin": 1568851190663,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "lastLocation": {
+    "x": -4950.572405914047,
+    "y": 73.0,
+    "z": 2105.344447958279,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "mail": [],
+  "ignoreList": [],
+  "notes": [],
+  "warnings": []
+}

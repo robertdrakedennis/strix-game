@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "notes": [],
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "kitLastUsedTime": {},
+  "invulnerable": false,
+  "lastKnownName": "DrunkDoughnut",
+  "lastLogin": 1568878519666,
+  "lastLogout": 1568881612651,
+  "lastIP": "/101.176.19.159",
+  "firstJoin": 1568878519666,
+  "startedFirstJoin": false,
+  "fly": false,
+  "warnings": [],
+  "ignoreList": [],
+  "mail": [],
+  "lastLocation": {
+    "x": -2262.699999988079,
+    "y": 66.5,
+    "z": 2068.106360577146,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

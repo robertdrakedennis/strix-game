@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568937579
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "Falslade",
+  "lastLogin": 1568937579676,
+  "lastLogout": 1568938334009,
+  "lastIP": "/90.181.202.153",
+  "firstJoin": 1568937579676,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false,
+  "lastLocation": {
+    "x": -315.585302295836,
+    "y": 63.231523797587016,
+    "z": 288.80497981749846,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

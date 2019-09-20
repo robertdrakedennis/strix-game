@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568950103
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "Chipchap534",
+  "lastLocation": {
+    "x": -318.2969532818383,
+    "y": 57.0,
+    "z": 287.33656395643584,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "lastLogin": 1568952095117,
+  "lastLogout": 1568953167707,
+  "lastIP": "/67.59.73.219",
+  "firstJoin": 1568950103621,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false
+}

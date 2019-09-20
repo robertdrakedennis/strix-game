@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568943570
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "KdudeYT",
+  "lastLogin": 1568943570305,
+  "lastLogout": 1568944344472,
+  "lastIP": "/45.56.150.128",
+  "firstJoin": 1568943570305,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false,
+  "lastLocation": {
+    "x": 2903.713651117672,
+    "y": 67.49520099694234,
+    "z": 2177.715983747185,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

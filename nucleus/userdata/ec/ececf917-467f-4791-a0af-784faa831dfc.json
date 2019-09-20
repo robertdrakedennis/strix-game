@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "fly": false,
+  "kitLastUsedTime": {
+    "basekit": 1568855083
+  },
+  "notes": [],
+  "invulnerable": false,
+  "warnings": [],
+  "lastKnownName": "Sayunotus",
+  "lastLogin": 1568855083872,
+  "lastLogout": 1568855430103,
+  "lastIP": "/73.76.4.99",
+  "firstJoin": 1568855083872,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "ignoreList": [],
+  "lastLocation": {
+    "x": 1553.699999988079,
+    "y": 55.0,
+    "z": 593.3333574256513,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

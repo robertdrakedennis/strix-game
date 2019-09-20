@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "_tlas",
+  "lastLogin": 1568935680425,
+  "lastLogout": 1568936654554,
+  "lastIP": "/64.4.96.169",
+  "firstJoin": 1568838017969,
+  "startedFirstJoin": false,
+  "vanish": false,
+  "isFrozen": false,
+  "lastLocation": {
+    "x": -2079.1765823169153,
+    "y": 65.0,
+    "z": 2033.541292826243,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "kitLastUsedTime": {
+    "basekit": 1568844103
+  },
+  "fly": false,
+  "nickname-text": "{\"text\":\"atlas\"}",
+  "powertools": {},
+  "mail": [],
+  "ignoreList": [],
+  "warnings": [],
+  "notes": []
+}

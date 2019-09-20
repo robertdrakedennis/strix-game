@@ -1,0 +1,153 @@
+{
+  "kits": {
+    "basekit": {
+      "stacks": [
+        {
+          "ContentVersion": 2,
+          "ItemType": "notreepunching:flint_shard",
+          "Count": 16,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "notreepunching:pickaxe/flint",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "Quality": {
+              "Slots": [
+                "mainhand"
+              ],
+              "Color": "dark_gray",
+              "AttributeModifiers": [
+                {
+                  "UUIDMost": -3356200209541545472,
+                  "UUIDLeast": -7622693687846459392,
+                  "Amount": -0.15000000596046448,
+                  "AttributeName": "potioncore.digSpeed",
+                  "Operation": 2,
+                  "Name": "qualitytools"
+                },
+                {
+                  "UUIDMost": -2275201086824625664,
+                  "UUIDLeast": -5582737020398734336,
+                  "Amount": -0.15000000596046448,
+                  "AttributeName": "generic.attackSpeed",
+                  "Operation": 2,
+                  "Name": "qualitytools"
+                }
+              ],
+              "Name": "quality.bulky.name"
+            }
+          }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "notreepunching:axe/flint",
+          "Count": 1,
+          "UnsafeDamage": 0
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "notreepunching:shovel/flint",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "Quality": {
+              "Slots": [
+                "mainhand"
+              ],
+              "Color": "red",
+              "AttributeModifiers": [
+                {
+                  "UUIDMost": 1600729021355739648,
+                  "UUIDLeast": -6280466793779348480,
+                  "Amount": -0.05000000074505806,
+                  "AttributeName": "generic.attackSpeed",
+                  "Operation": 2,
+                  "Name": "qualitytools"
+                },
+                {
+                  "UUIDMost": 6209275367384762368,
+                  "UUIDLeast": -7820816710266670080,
+                  "Amount": -0.05000000074505806,
+                  "AttributeName": "generic.attackDamage",
+                  "Operation": 2,
+                  "Name": "qualitytools"
+                }
+              ],
+              "Name": "quality.chipped.name"
+            }
+          }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "notreepunching:hoe/flint",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "Quality": {
+              "Slots": [
+                "mainhand"
+              ],
+              "Color": "red",
+              "AttributeModifiers": [
+                {
+                  "UUIDMost": 8386400509787654144,
+                  "UUIDLeast": -8502996984319562752,
+                  "Amount": -0.05000000074505806,
+                  "AttributeName": "potioncore.digSpeed",
+                  "Operation": 2,
+                  "Name": "qualitytools"
+                },
+                {
+                  "UUIDMost": 4097253768119796736,
+                  "UUIDLeast": -8485637025383468032,
+                  "Amount": -0.05000000074505806,
+                  "AttributeName": "generic.attackSpeed",
+                  "Operation": 2,
+                  "Name": "qualitytools"
+                }
+              ],
+              "Name": "quality.clumsy.name"
+            }
+          }
+        },
+        {
+          "ContentVersion": 2,
+          "ItemType": "notreepunching:knife/flint",
+          "Count": 1,
+          "UnsafeDamage": 0,
+          "UnsafeData": {
+            "Quality": {
+              "Slots": [
+                "mainhand"
+              ],
+              "Color": "red",
+              "AttributeModifiers": [
+                {
+                  "UUIDMost": -2039246714369062656,
+                  "UUIDLeast": -8820625466414349312,
+                  "Amount": -1,
+                  "AttributeName": "generic.reachDistance",
+                  "Operation": 0,
+                  "Name": "qualitytools"
+                }
+              ],
+              "Name": "quality.short.name"
+            }
+          }
+        }
+      ],
+      "interval": 600000,
+      "cost": 0.0,
+      "autoRedeem": false,
+      "oneTime": false,
+      "displayMessage": true,
+      "ignoresPermission": false,
+      "hidden": false,
+      "commands": [],
+      "firstJoin": false
+    }
+  }
+}

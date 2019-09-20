@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "ignoreList": [],
+  "invulnerable": false,
+  "warnings": [],
+  "kitLastUsedTime": {
+    "basekit": 1568931740
+  },
+  "fly": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "JessicaPeach",
+  "lastLogin": 1568931740180,
+  "lastLogout": 1568932392420,
+  "lastIP": "/107.3.73.206",
+  "firstJoin": 1568931740180,
+  "startedFirstJoin": false,
+  "isFrozen": false,
+  "notes": [],
+  "vanish": false,
+  "lastLocation": {
+    "x": -295.6410543807658,
+    "y": 56.0,
+    "z": 241.8874471779512,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

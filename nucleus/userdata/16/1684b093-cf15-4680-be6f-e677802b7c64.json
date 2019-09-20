@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568936698
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "MaxTheImpaler_",
+  "lastLocation": {
+    "x": -2428.9701141272276,
+    "y": 60.7074868363766,
+    "z": -3434.828660142032,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "lastLogin": 1568936698604,
+  "lastLogout": 1568936752366,
+  "lastIP": "/99.225.35.155",
+  "firstJoin": 1568936698604,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false
+}

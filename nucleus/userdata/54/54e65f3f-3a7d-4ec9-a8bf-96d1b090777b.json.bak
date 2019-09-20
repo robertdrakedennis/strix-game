@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "kitLastUsedTime": {
+    "basekit": 1568884831
+  },
+  "invulnerable": false,
+  "lastKnownName": "SLPBigBaws",
+  "lastLocation": {
+    "x": 873.6545273445039,
+    "y": 89.0,
+    "z": 4602.510629478353,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "lastLogin": 1568886310880,
+  "lastLogout": 1568886575424,
+  "lastIP": "/93.35.162.148",
+  "firstJoin": 1568884831809,
+  "startedFirstJoin": false,
+  "fly": false,
+  "warnings": [],
+  "ignoreList": [],
+  "notes": [],
+  "mail": []
+}

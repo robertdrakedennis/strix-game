@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "lastKnownName": "OkieSniper",
+  "lastLogin": 1568940122049,
+  "lastLogout": 1568942164822,
+  "lastIP": "/47.217.100.48",
+  "firstJoin": 1568940122049,
+  "startedFirstJoin": false,
+  "mail": [],
+  "jailOnNextLogin": false,
+  "kitLastUsedTime": {
+    "basekit": 1568940122
+  },
+  "isFrozen": false,
+  "fly": false,
+  "invulnerable": false,
+  "notes": [],
+  "vanish": false,
+  "warnings": [],
+  "ignoreList": [],
+  "lastLocation": {
+    "x": 35.006865094708786,
+    "y": 79.0,
+    "z": 329.744512641542,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

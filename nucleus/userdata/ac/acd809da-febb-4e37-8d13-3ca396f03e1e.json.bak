@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "lastKnownName": "Kodabear2002",
+  "lastLogin": 1568926513597,
+  "lastLogout": 1568926528199,
+  "lastIP": "/71.218.42.172",
+  "firstJoin": 1568864587336,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "vanish": false,
+  "kitLastUsedTime": {
+    "basekit": 1568864587
+  },
+  "isFrozen": false,
+  "lastLocation": {
+    "x": 1835.9770412330424,
+    "y": 70.0,
+    "z": -3437.158840955388,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "mail": [],
+  "notes": [],
+  "warnings": []
+}

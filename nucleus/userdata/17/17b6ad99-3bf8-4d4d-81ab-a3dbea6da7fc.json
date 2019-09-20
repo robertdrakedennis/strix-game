@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "lastKnownName": "Aceofspades_",
+  "lastLogin": 1568949679428,
+  "lastLogout": 1568949998626,
+  "lastIP": "/40.142.137.220",
+  "firstJoin": 1568949679428,
+  "startedFirstJoin": false,
+  "mail": [],
+  "jailOnNextLogin": false,
+  "kitLastUsedTime": {
+    "basekit": 1568949679
+  },
+  "isFrozen": false,
+  "fly": false,
+  "invulnerable": false,
+  "notes": [],
+  "vanish": false,
+  "warnings": [],
+  "ignoreList": [],
+  "lastLocation": {
+    "x": -254.18807516244811,
+    "y": 63.0,
+    "z": 223.1085800285274,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

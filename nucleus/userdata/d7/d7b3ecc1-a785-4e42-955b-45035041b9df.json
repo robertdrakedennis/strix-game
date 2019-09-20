@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "ignoreList": [],
+  "lastKnownName": "Crittles",
+  "lastLogin": 1568849133820,
+  "lastLogout": 0,
+  "lastIP": "/64.33.87.21",
+  "firstJoin": 1568849133820,
+  "startedFirstJoin": false,
+  "fly": false,
+  "warnings": [],
+  "notes": [],
+  "invulnerable": false,
+  "isFrozen": false
+}

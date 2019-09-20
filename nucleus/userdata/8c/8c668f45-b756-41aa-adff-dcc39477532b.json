@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "lastKnownName": "SweetSorrows",
+  "lastLogin": 1568864833308,
+  "lastLogout": 1568865606448,
+  "lastIP": "/70.64.67.27",
+  "firstJoin": 1568864833308,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "ignoreList": [],
+  "fly": false,
+  "notes": [],
+  "warnings": [],
+  "vanish": false,
+  "kitLastUsedTime": {
+    "basekit": 1568864833
+  },
+  "isFrozen": false,
+  "mail": [],
+  "lastLocation": {
+    "x": -315.7334613425405,
+    "y": 63.0,
+    "z": 258.10218039427554,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

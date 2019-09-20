@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "lastKnownName": "crackwizard420",
+  "lastLogin": 1568951840556,
+  "lastLogout": 1568931628670,
+  "lastIP": "/108.46.238.111",
+  "firstJoin": 1568849250023,
+  "startedFirstJoin": false,
+  "fly": false,
+  "invulnerable": false,
+  "isFrozen": false,
+  "lastLocation": {
+    "x": -285.53577940398947,
+    "y": 63.0,
+    "z": 46.58320806908433,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "mail": [],
+  "notes": [],
+  "ignoreList": [],
+  "warnings": [],
+  "homes": {
+    "home": {
+      "x": -292.2094453701285,
+      "y": 67.0,
+      "z": 76.57317202875548,
+      "rotx": 40.50013732910156,
+      "roty": -82.04182434082031,
+      "rotz": 0.0,
+      "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+    }
+  }
+}

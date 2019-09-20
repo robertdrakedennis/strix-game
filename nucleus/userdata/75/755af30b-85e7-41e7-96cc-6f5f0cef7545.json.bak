@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568950361
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "Vrelian",
+  "lastLogin": 1568950361047,
+  "lastLogout": 1568952902296,
+  "lastIP": "/70.119.212.177",
+  "firstJoin": 1568950361047,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false,
+  "lastLocation": {
+    "x": -384.69999998807907,
+    "y": 70.0,
+    "z": 28.100107902916246,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

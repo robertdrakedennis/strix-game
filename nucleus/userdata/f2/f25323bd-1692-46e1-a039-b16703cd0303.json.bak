@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "vanish": false,
+  "kitLastUsedTime": {},
+  "invulnerable": false,
+  "lastKnownName": "Matsoukan",
+  "lastLogin": 1568878575884,
+  "lastLogout": 1568882075220,
+  "lastIP": "/188.147.33.175",
+  "firstJoin": 1568878575884,
+  "startedFirstJoin": false,
+  "fly": false,
+  "notes": [],
+  "warnings": [],
+  "ignoreList": [],
+  "jailOnNextLogin": false,
+  "mail": [],
+  "isFrozen": false,
+  "lastLocation": {
+    "x": -5060.973762864568,
+    "y": 70.0,
+    "z": -2115.9499354107843,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

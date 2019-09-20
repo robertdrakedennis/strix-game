@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "lastKnownName": "Moamel9000",
+  "lastLogin": 1568847578744,
+  "lastLogout": 1568846017072,
+  "lastIP": "/188.150.163.225",
+  "firstJoin": 1568844522722,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "vanish": false,
+  "fly": false,
+  "isFrozen": false,
+  "jailOnNextLogin": false,
+  "lastLocation": {
+    "x": -4560.191585111097,
+    "y": 63.0,
+    "z": 3085.4674158897938,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "mail": [],
+  "ignoreList": [],
+  "warnings": [],
+  "notes": []
+}

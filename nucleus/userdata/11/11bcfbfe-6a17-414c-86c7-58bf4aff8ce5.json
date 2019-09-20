@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568936157
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "Masterbuddha117",
+  "lastLogin": 1568940761680,
+  "lastLogout": 1568944196191,
+  "lastIP": "/192.149.254.64",
+  "firstJoin": 1568936157761,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false,
+  "lastLocation": {
+    "x": -375.5312374206021,
+    "y": 59.0,
+    "z": 217.09184172611816,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

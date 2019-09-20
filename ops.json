@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "816c403a-ea50-43b0-9208-8f1f33be2ef2",
+    "name": "Varithian",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f0e815d7-cfa7-4bd7-ad11-8fc9ae253bd8",
+    "name": "mein_shaft",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "761190a9-fff5-4e58-94d7-fbbb00ad7bfe",
+    "name": "_tlas",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "ignoreList": [],
+  "lastKnownName": "CrazyViking404",
+  "lastLogin": 1568848473662,
+  "lastLogout": 1568848919478,
+  "lastIP": "/47.53.230.180",
+  "firstJoin": 1568848473662,
+  "startedFirstJoin": false,
+  "fly": false,
+  "warnings": [],
+  "notes": [],
+  "invulnerable": false,
+  "isFrozen": false,
+  "lastLocation": {
+    "x": -215.5072379683638,
+    "y": 63.0,
+    "z": 266.3421073399037,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

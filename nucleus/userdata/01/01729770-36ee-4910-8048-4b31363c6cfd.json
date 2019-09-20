@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568935784
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "wizardmonkey",
+  "lastLogin": 1568952997054,
+  "lastLogout": 1568953037066,
+  "lastIP": "/73.102.183.138",
+  "firstJoin": 1568935784227,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false,
+  "homes": {
+    "home": {
+      "x": -367.5383167718984,
+      "y": 63.0,
+      "z": -527.7661405521297,
+      "rotx": 20.395992279052734,
+      "roty": -340.06268310546875,
+      "rotz": 0.0,
+      "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+    }
+  },
+  "lastLocation": {
+    "x": -368.3255656279639,
+    "y": 58.0,
+    "z": -528.3709670449211,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

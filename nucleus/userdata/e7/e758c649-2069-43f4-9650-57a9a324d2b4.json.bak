@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "isFrozen": false,
+  "notes": [],
+  "invulnerable": false,
+  "warnings": [],
+  "fly": false,
+  "ignoreList": [],
+  "lastKnownName": "SaberHashemi",
+  "lastLogin": 1568852714877,
+  "lastLogout": 1568854196235,
+  "lastIP": "/75.157.230.40",
+  "firstJoin": 1568852714877,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "mail": [],
+  "lastLocation": {
+    "x": -263.6840001778907,
+    "y": 64.0,
+    "z": 221.62480810464703,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  }
+}

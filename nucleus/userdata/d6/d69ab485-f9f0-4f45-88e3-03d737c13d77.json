@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568947174
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "TheGoodFarmer",
+  "lastLocation": {
+    "x": -332.2731077677357,
+    "y": 67.0,
+    "z": 308.5368039376772,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "lastLogin": 1568954375051,
+  "lastLogout": 1568955318425,
+  "lastIP": "/41.250.244.53",
+  "firstJoin": 1568947174668,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false
+}

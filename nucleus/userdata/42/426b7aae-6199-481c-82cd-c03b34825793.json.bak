@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mail": [],
+  "kitLastUsedTime": {
+    "basekit": 1568952096
+  },
+  "invulnerable": false,
+  "ignoreList": [],
+  "warnings": [],
+  "lastKnownName": "alejomonpe",
+  "lastLocation": {
+    "x": -4323.257820862019,
+    "y": 77.0,
+    "z": -2121.123735730801,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "9166eeb4-4b74-42e4-ad43-dbc0940393b0"
+  },
+  "lastLogin": 1568952216390,
+  "lastLogout": 1568952441975,
+  "lastIP": "/72.202.187.52",
+  "firstJoin": 1568952096775,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "notes": [],
+  "vanish": false
+}
