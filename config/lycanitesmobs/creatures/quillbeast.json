@@ -1,6 +1,8 @@
 {
   "name": "quillbeast",
-  "class": "com.lycanitesmobs.plainsmobs.entity.EntityQuillbeast",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityQuillbeast",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelQuillbeast",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -19,6 +21,7 @@
     "biomes": [
       "plains",
       "savanna",
+      "forest",
       "-snowy"
     ],
     "spawnWeight": 4,
@@ -42,8 +45,8 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0.25,
@@ -76,7 +79,7 @@
       "chance": 1
     },
     {
-      "item": "plainsmobs:quill",
+      "item": "lycanitesmobs:quill",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

@@ -1,6 +1,8 @@
 {
   "name": "zoataur",
-  "class": "com.lycanitesmobs.plainsmobs.entity.EntityZoataur",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityZoataur",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelZoataur",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,8 +44,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0.25,

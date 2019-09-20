@@ -1,6 +1,8 @@
 {
   "name": "troll",
-  "class": "com.lycanitesmobs.mountainmobs.entity.EntityTroll",
+  "creatureType": "brute",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTroll",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelTroll",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,8 +42,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 1,
@@ -92,7 +94,7 @@
       "chance": 1
     },
     {
-      "item": "mountainmobs:boulderblastcharge",
+      "item": "lycanitesmobs:boulderblastcharge",
       "minAmount": 2,
       "maxAmount": 3,
       "chance": 0.25

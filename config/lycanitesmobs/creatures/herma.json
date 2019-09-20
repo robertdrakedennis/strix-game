@@ -1,6 +1,8 @@
 {
   "name": "herma",
-  "class": "com.lycanitesmobs.saltwatermobs.entity.EntityHerma",
+  "creatureType": "arthropod",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityHerma",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelHerma",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,8 +44,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,

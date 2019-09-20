@@ -1,6 +1,8 @@
 {
   "name": "trite",
-  "class": "com.lycanitesmobs.demonmobs.entity.EntityTrite",
+  "creatureType": "aberration",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTrite",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelTrite",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -41,8 +43,8 @@
   "damage": 1,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 3,
-  "amplifier": 0,
+  "effectDuration": 3,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,

@@ -1,6 +1,8 @@
 {
   "name": "maka",
-  "class": "com.lycanitesmobs.plainsmobs.entity.EntityMaka",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityMaka",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelMaka",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,8 +44,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 1,
@@ -76,8 +78,8 @@
       "chance": 1
     },
     {
-      "item": "plainsmobs:makameatraw",
-      "burningItem": "plainsmobs:makameatcooked",
+      "item": "lycanitesmobs:makameatraw",
+      "burningItem": "lycanitesmobs:makameatcooked",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

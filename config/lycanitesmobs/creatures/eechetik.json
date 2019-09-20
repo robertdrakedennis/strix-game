@@ -1,6 +1,8 @@
 {
   "name": "eechetik",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityEechetik",
+  "creatureType": "elemental",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityEechetik",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelEechetik",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -32,8 +34,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 3,
+  "effectDuration": 5,
+  "effectAmplifier": 3,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -78,7 +80,7 @@
       "chance": 1
     },
     {
-      "item": "swampmobs:poisongland",
+      "item": "lycanitesmobs:poisongland",
       "minAmount": 1,
       "maxAmount": 2,
       "chance": 0.25

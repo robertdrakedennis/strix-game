@@ -1,6 +1,8 @@
 {
   "name": "treant",
-  "class": "com.lycanitesmobs.forestmobs.entity.EntityTreant",
+  "creatureType": "plant",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTreant",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelTreant",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,8 +19,7 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "forest",
-      "-mountain"
+      "forest"
     ],
     "spawnWeight": 2,
     "dungeonWeight": 0,
@@ -41,8 +42,8 @@
   "damage": 4,
   "attackSpeed": 0.5,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 2,
   "sight": 16,
   "knockbackResistance": 1,
@@ -62,7 +63,7 @@
   ],
   "elements": [
     "arbour",
-    "electric"
+    "lightning"
   ],
   "peaceful": false,
   "summonable": false,

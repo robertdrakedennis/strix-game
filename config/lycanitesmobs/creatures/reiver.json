@@ -1,6 +1,8 @@
 {
   "name": "reiver",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityReiver",
+  "creatureType": "elemental",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityReiver",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelReiver",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -42,8 +44,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 0.5,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -88,7 +90,7 @@
       "chance": 0.05
     },
     {
-      "item": "elementalmobs:frostboltcharge",
+      "item": "lycanitesmobs:frostboltcharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.05

@@ -38,8 +38,8 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:cinder",
-      "weight": 4
+      "mobId": "lycanitesmobs:cinder",
+      "weight": 8
     }
   ]
 }

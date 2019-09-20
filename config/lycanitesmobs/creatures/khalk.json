@@ -1,12 +1,14 @@
 {
   "name": "khalk",
-  "class": "com.lycanitesmobs.infernomobs.entity.EntityKhalk",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityKhalk",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelKhalk",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
     "enabled": true,
     "spawners": [
-      "lava"
+      "lavaunderground"
     ],
     "disableSubspecies": false,
     "dimensionIds": [],
@@ -36,8 +38,8 @@
   "damage": 4,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,

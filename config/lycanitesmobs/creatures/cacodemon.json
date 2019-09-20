@@ -1,6 +1,8 @@
 {
   "name": "cacodemon",
-  "class": "com.lycanitesmobs.demonmobs.entity.EntityCacodemon",
+  "creatureType": "demon",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityCacodemon",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelCacodemon",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -39,8 +41,8 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 32,
   "knockbackResistance": 0,
@@ -90,13 +92,13 @@
       "chance": 0.5
     },
     {
-      "item": "demonmobs:demoniclightningcharge",
+      "item": "lycanitesmobs:demoniclightningcharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.75
     },
     {
-      "item": "demonmobs:soulstonedemonic",
+      "item": "lycanitesmobs:soulstonedemonic",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 1,

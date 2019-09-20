@@ -2,7 +2,7 @@
   "name": "mix",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": false,
+  "loadDefault": true,
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -14,7 +14,7 @@
   "triggers": [
     {
       "type": "mix",
-      "chance": 0.025
+      "chance": 0.05
     }
   ],
   "locations": [
@@ -35,8 +35,8 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs:xaphan",
-      "weight": 4
+      "mobId": "lycanitesmobs:xaphan",
+      "weight": 8
     }
   ]
 }

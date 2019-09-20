@@ -1,6 +1,8 @@
 {
   "name": "geist",
-  "class": "com.lycanitesmobs.shadowmobs.entity.EntityGeist",
+  "creatureType": "undead",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGeist",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelGeist",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -38,8 +40,8 @@
   "damage": 2,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -85,7 +87,7 @@
       "chance": 0.05
     },
     {
-      "item": "shadowmobs:geistliver",
+      "item": "lycanitesmobs:geistliver",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

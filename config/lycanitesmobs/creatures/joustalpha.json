@@ -1,6 +1,8 @@
 {
   "name": "joustalpha",
-  "class": "com.lycanitesmobs.desertmobs.entity.EntityJoustAlpha",
+  "creatureType": "arthropod",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityJoustAlpha",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelJoustAlpha",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -40,8 +42,8 @@
   "damage": 3,
   "attackSpeed": 2,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": -1,
+  "effectDuration": 5,
+  "effectAmplifier": -1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0.25,
@@ -68,8 +70,8 @@
   "dungeonLevel": 1,
   "drops": [
     {
-      "item": "desertmobs:joustmeatraw",
-      "burningItem": "desertmobs:joustmeatcooked",
+      "item": "lycanitesmobs:joustmeatraw",
+      "burningItem": "lycanitesmobs:joustmeatcooked",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 1

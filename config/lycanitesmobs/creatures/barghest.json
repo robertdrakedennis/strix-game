@@ -1,6 +1,8 @@
 {
   "name": "barghest",
-  "class": "com.lycanitesmobs.mountainmobs.entity.EntityBarghest",
+  "creatureType": "beast",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBarghest",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelBarghest",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -17,7 +19,8 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [
-      "mountain"
+      "mountain",
+      "savanna"
     ],
     "spawnWeight": 4,
     "dungeonWeight": 200,
@@ -40,8 +43,8 @@
   "damage": 3,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0.25,
@@ -59,7 +62,7 @@
       "type": "uncommon"
     }
   ],
-  "element": "earth",
+  "element": "fae",
   "peaceful": false,
   "summonable": false,
   "tameable": true,

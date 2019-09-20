@@ -1,6 +1,8 @@
 {
   "name": "afrit",
-  "class": "com.lycanitesmobs.infernomobs.entity.EntityAfrit",
+  "creatureType": "imp",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAfrit",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAfrit",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -36,8 +38,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -79,7 +81,7 @@
       "chance": 0.25
     },
     {
-      "item": "infernomobs:scorchfirecharge",
+      "item": "lycanitesmobs:scorchfirecharge",
       "minAmount": 1,
       "maxAmount": 3,
       "chance": 0.25

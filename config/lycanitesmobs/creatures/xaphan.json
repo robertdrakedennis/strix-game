@@ -1,7 +1,9 @@
 {
   "name": "xaphan",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityXaphan",
-  "loadDefault": false,
+  "creatureType": "elemental",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityXaphan",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelXaphan",
+  "loadDefault": true,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -11,7 +13,7 @@
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
     "biomes": [],
-    "spawnWeight": 4,
+    "spawnWeight": 8,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
@@ -32,8 +34,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 0.25,
-  "effect": 5,
-  "amplifier": 1,
+  "effectDuration": 5,
+  "effectAmplifier": 1,
   "pierce": 1,
   "sight": 16,
   "knockbackResistance": 0,
@@ -78,7 +80,7 @@
       "chance": 0.25
     },
     {
-      "item": "elementalmobs:acidsplashcharge",
+      "item": "lycanitesmobs:acidsplashcharge",
       "minAmount": 1,
       "maxAmount": 1,
       "chance": 0.25

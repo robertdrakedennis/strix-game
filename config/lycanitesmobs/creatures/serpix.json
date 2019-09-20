@@ -1,6 +1,8 @@
 {
   "name": "serpix",
-  "class": "com.lycanitesmobs.arcticmobs.entity.EntitySerpix",
+  "creatureType": "serpix",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntitySerpix",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelSerpix",
   "loadDefault": true,
   "enabled": true,
   "spawning": {
@@ -44,8 +46,8 @@
   "damage": 1,
   "attackSpeed": 1,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 2,
   "sight": 24,
   "knockbackResistance": 1,
@@ -90,7 +92,7 @@
       "chance": 0.25
     },
     {
-      "item": "arcticmobs:blizzardcharge",
+      "item": "lycanitesmobs:blizzardcharge",
       "minAmount": 2,
       "maxAmount": 6,
       "chance": 0.5

@@ -1,6 +1,8 @@
 {
   "name": "aegis",
-  "class": "com.lycanitesmobs.elementalmobs.entity.EntityAegis",
+  "creatureType": "elemental",
+  "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAegis",
+  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAegis",
   "loadDefault": false,
   "enabled": true,
   "spawning": {
@@ -32,8 +34,8 @@
   "damage": 4,
   "attackSpeed": 8,
   "rangedSpeed": 1,
-  "effect": 5,
-  "amplifier": 0,
+  "effectDuration": 5,
+  "effectAmplifier": 0,
   "pierce": 1,
   "sight": 24,
   "knockbackResistance": 1,
